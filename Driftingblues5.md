@@ -500,7 +500,6 @@ gill@driftingblues:/keyfolder$ cat /etc/crontab
 # command to install the new version when you edit this file
 # and files in /etc/cron.d. These files also have username fields,
 # that none of the other crontabs do.
-```
 
 SHELL=/bin/sh
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
@@ -527,6 +526,8 @@ test -x
 Need to make a file.
 
 Interesting how often this crontab is running
+```
+
 ```
 
 Navigated to /keyfolder
