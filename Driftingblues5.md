@@ -559,6 +559,8 @@ This Script is being ran
 so once the script is updated you will see
 
 ```
+
+```
 gill@driftingblues:/keyfolder$ ls -al
 total 12
 drwx---rwx  2 root root 4096 Apr 12 19:50 .
@@ -603,6 +605,4 @@ flag 2/2
 ░░░▀▀▄▄▀▀░█░░░▀▄▀▀▀▀█░░█
 
 congratulations!
-```
-
 ```
